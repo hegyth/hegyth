@@ -1,8 +1,8 @@
-<video controls>
+<!-- <video controls>
 <source src="video/mult.mp4" type="video/mp4">
 <source src="video/mult.ogv" type="video/ogg">
 <iframe width="560" height="315" src="/Dark Violet Class Reunion Facebook Event Cover.mp4" frameborder="0" allowfullscreen></iframe>
-</video>
+</video> -->
 
 ## Languages and Tools:
 <div>
