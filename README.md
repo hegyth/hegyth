@@ -1,4 +1,4 @@
-<img src="Dark Violet Class Reunion Facebook Event Cover.gif">
+<img src="German Semenov.gif">
 
 ## Languages and Tools:
 <div>
