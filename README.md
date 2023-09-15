@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/german-semenov-92a225291/overlay/background-image/">
+<img src="https://media.licdn.com/dms/image/D4D16AQFbnngYoTq5SA/profile-displaybackgroundimage-shrink_350_1400/0/1694773219315?e=1700092800&v=beta&t=5Kq1nVRRRJjIwXTdSpoEIjY9AFltT726lQNgvk9I2qQ">
 
 ## Languages and Tools:
 <div>
