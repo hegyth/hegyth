@@ -1,6 +1,4 @@
-<video>
-    <source src="DarkVioletClassReunionFacebookEventCover.mp4" type="video/mp4" />
-</video>
+<img src="Dark Violet Class Reunion Facebook Event Cover.gif">
 
 ## Languages and Tools:
 <div>
