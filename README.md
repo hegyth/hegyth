@@ -1,4 +1,6 @@
-<img src="https://www.canva.com/design/DAFugiKCS_Q/hVE0cjy9zEEIKGtKpyQ2CA/edit?utm_content=DAFugiKCS_Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<video>
+    <source src="DarkVioletClassReunionFacebookEventCover.mp4" type="video/mp4" />
+</video>
 
 ## Languages and Tools:
 <div>
