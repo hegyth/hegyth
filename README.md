@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFbnngYoTq5SA/profile-displaybackgroundimage-shrink_350_1400/0/1694773219315?e=1700092800&v=beta&t=5Kq1nVRRRJjIwXTdSpoEIjY9AFltT726lQNgvk9I2qQ">
+<img src="https://www.canva.com/design/DAFugiKCS_Q/hVE0cjy9zEEIKGtKpyQ2CA/edit?utm_content=DAFugiKCS_Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ## Languages and Tools:
 <div>
